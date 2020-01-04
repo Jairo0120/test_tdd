@@ -1,0 +1,9 @@
+{
+    "name": "Test TDD",
+    "image": "test_tdd_django",
+    "extensions": [
+        "ms-python.python",
+        "VisualStudioExptTeam.vscodeintellicod",
+        "thebarkman.vscode-djaneiro"
+    ]
+}

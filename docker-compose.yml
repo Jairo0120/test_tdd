@@ -4,6 +4,7 @@ services:
   app:
     build:
       context: .
+    image: test_tdd_django
     ports:
       - "8000:8000"
     volumes:
